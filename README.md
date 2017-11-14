@@ -13,4 +13,4 @@ IDE: Visual Studio 2017
 (3) Build & Run
 
 ## DEMO
-![](http://i.imgur.com/OUkLi.gif)
+![](https://i.imgur.com/4lxwC1c)
