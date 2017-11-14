@@ -1,0 +1,8 @@
+c:\users\sheingng\Source\Repos\PhotoAlbumLT\PhotoAlbumLT\bin\Debug\PhotoAlbumLT.exe.config
+c:\users\sheingng\Source\Repos\PhotoAlbumLT\PhotoAlbumLT\bin\Debug\PhotoAlbumLT.exe
+c:\users\sheingng\Source\Repos\PhotoAlbumLT\PhotoAlbumLT\bin\Debug\PhotoAlbumLT.pdb
+c:\users\sheingng\Source\Repos\PhotoAlbumLT\PhotoAlbumLT\bin\Debug\Newtonsoft.Json.dll
+c:\users\sheingng\Source\Repos\PhotoAlbumLT\PhotoAlbumLT\bin\Debug\Newtonsoft.Json.xml
+c:\users\sheingng\Source\Repos\PhotoAlbumLT\PhotoAlbumLT\obj\Debug\PhotoAlbumLT.csprojResolveAssemblyReference.cache
+c:\users\sheingng\Source\Repos\PhotoAlbumLT\PhotoAlbumLT\obj\Debug\PhotoAlbumLT.exe
+c:\users\sheingng\Source\Repos\PhotoAlbumLT\PhotoAlbumLT\obj\Debug\PhotoAlbumLT.pdb

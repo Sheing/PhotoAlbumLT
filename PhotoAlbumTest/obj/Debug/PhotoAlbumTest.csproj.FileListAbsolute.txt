@@ -1,0 +1,17 @@
+c:\users\sheingng\Source\Repos\PhotoAlbumLT\PhotoAlbumTest\obj\Debug\PhotoAlbumTest.csprojResolveAssemblyReference.cache
+c:\users\sheingng\Source\Repos\PhotoAlbumLT\PhotoAlbumTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\sheingng\Source\Repos\PhotoAlbumLT\PhotoAlbumTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\sheingng\Source\Repos\PhotoAlbumLT\PhotoAlbumTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\sheingng\Source\Repos\PhotoAlbumLT\PhotoAlbumTest\bin\Debug\PhotoAlbumTest.dll
+c:\users\sheingng\Source\Repos\PhotoAlbumLT\PhotoAlbumTest\bin\Debug\PhotoAlbumTest.pdb
+c:\users\sheingng\Source\Repos\PhotoAlbumLT\PhotoAlbumTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\sheingng\Source\Repos\PhotoAlbumLT\PhotoAlbumTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\sheingng\Source\Repos\PhotoAlbumLT\PhotoAlbumTest\bin\Debug\PhotoAlbumLT.exe
+c:\users\sheingng\Source\Repos\PhotoAlbumLT\PhotoAlbumTest\bin\Debug\Newtonsoft.Json.dll
+c:\users\sheingng\Source\Repos\PhotoAlbumLT\PhotoAlbumTest\bin\Debug\PhotoAlbumLT.pdb
+c:\users\sheingng\Source\Repos\PhotoAlbumLT\PhotoAlbumTest\bin\Debug\PhotoAlbumLT.exe.config
+c:\users\sheingng\Source\Repos\PhotoAlbumLT\PhotoAlbumTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\sheingng\Source\Repos\PhotoAlbumLT\PhotoAlbumTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\sheingng\Source\Repos\PhotoAlbumLT\PhotoAlbumTest\bin\Debug\Newtonsoft.Json.xml
+c:\users\sheingng\Source\Repos\PhotoAlbumLT\PhotoAlbumTest\obj\Debug\PhotoAlbumTest.dll
+c:\users\sheingng\Source\Repos\PhotoAlbumLT\PhotoAlbumTest\obj\Debug\PhotoAlbumTest.pdb
